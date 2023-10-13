@@ -1,0 +1,6 @@
+mlflow
+black
+ipython
+scikit-learn
+pytest
+pytest-cov
